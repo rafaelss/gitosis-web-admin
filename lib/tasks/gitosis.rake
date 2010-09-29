@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 
 namespace :gitosis do
 
