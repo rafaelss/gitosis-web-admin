@@ -7,3 +7,6 @@ gem "mysql2"
 gem "configatron"
 gem "git"
 
+group :deploy do
+  gem "net-ssh", :require => "net/ssh"
+end
